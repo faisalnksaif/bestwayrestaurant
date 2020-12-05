@@ -560,6 +560,8 @@ http://www.templatemo.com/tm-515-eatery
   .menu-thumb img {
     width: 100%;
     transition: 0.5s;
+    height: 300px;
+    object-fit: cover;
   }
 
   .menu-thumb:hover img {
